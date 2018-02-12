@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "main.js",
+  "scripts": {
+    "test": "main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "main.js"
+  },
+  "keywords": [
+    "sdafasf"
+  ],
+  "author": "me",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.4"
+  }
+}
